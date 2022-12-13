@@ -39,7 +39,11 @@ public class Car {
 		System.out.println("Fuel on the tank after the refuel: " + this.amountOfFuel);
 		
 		
-
+        public void  Break() {
+	System.out.println("Car is breaking");
+	}
+		
+		
 }		
 
 
